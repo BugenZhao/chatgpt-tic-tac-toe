@@ -1,0 +1,7 @@
+[package]
+name = "rust-tic-tac-toe"
+version = "0.1.0"
+authors = ["Bugen Zhao <bugen.zhao@gmail.com>"]
+edition = "2018"
+
+[dependencies]

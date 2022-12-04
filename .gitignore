@@ -1,0 +1,6 @@
+# cargo
+/target
+
+# project files
+/rust-tic-tac-toe.sublime-project
+/rust-tic-tac-toe.sublime-workspace
